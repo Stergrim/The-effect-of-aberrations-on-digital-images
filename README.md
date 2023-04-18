@@ -31,7 +31,7 @@
 Примеры применения аберраций к точечному источнику. Слева представлен волновой фронт аберрации, а справа соответствующее распределение интенсивности:
 
 <p float="left">
-<img src="https://github.com/Stergrim/The-effect-of-aberrations-on-digital-images/blob/main/demos/01.png="300" />
+<img src="https://github.com/Stergrim/The-effect-of-aberrations-on-digital-images/blob/main/demos/01.png" width="300" />
 <img src="https://github.com/Stergrim/The-effect-of-aberrations-on-digital-images/blob/main/demos/02.png" width="300" /> 
 </p>
 
