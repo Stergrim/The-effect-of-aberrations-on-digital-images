@@ -25,14 +25,14 @@
 Пример исходного изображения приближённо являющимся точечным источником:
 
 <figure>
-<img src="demos/Test0.jpg" width="200"/>
+<img src="/demos/Test0.jpg" width="200"/>
 </figure>
 
 Примеры применения аберраций к точечному источнику. Слева представлен волновой фронт аберрации, а справа соответствующее распределение интенсивности:
 
 <p float="left">
-<img src="demos/01.png" width="300" />
-<img src="demos/02.png" width="300" /> 
+<img src="/demos/01.png" width="300" />
+<img src="/demos/02.png" width="300" /> 
 </p>
 
 **Левый рисунок**<br>
@@ -47,8 +47,8 @@
 Примеры применения аберраций к плоскому изображению и к цветному изображению.
 
 <p float="left">
-<img src="demos/03.png" width="300" />
-<img src="demos/04.png" width="440" /> 
+<img src="/demos/03.png" width="300" />
+<img src="/demos/04.png" width="440" /> 
 </p>
 
 **Левый рисунок**<br>
